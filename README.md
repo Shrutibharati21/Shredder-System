@@ -1,6 +1,6 @@
 # Shredder-System
 This project basically protects the chopping of hands of workers from shredder machine using Opencv and Computer vision.
-Introduction:
+# Introduction:
 Hand protection from shredder machines is an important safety concern in industrial and office settings.The problem is when people work with this Shredder
 Machine. Sometimes accidentally due to inattention, they lose their hands in this
 shredder machine. Here this accident can be solved by using this project. Accidents involving shredders can cause serious injuries, and therefore, it is necessary
@@ -13,7 +13,7 @@ is in close proximity to the shredder and activate a warning signal. The warning
 signal can be in the form of a sound, an alarm, or even a visual display. If the
 person does not respond to the warning, the computer vision system can shut off
 the shredder machine to prevent injury.
-Problem Statement:
+# Problem Statement:
 Accidents involving shredder machines can cause serious injuries to individuals in
 industrial and office settings. While safety measures such as safety guards and
 user manuals are implemented, there is still a need for additional safety measures
@@ -33,7 +33,7 @@ safety, reduce the risk of workplace injuries, and prevent accidents caused by s
 close proximity to the shredder machine and activating a warning or shut off the
 machine automatically, this project aims to provide an additional layer of safety
 to prevent accidents and promote a safe working environment.
-Project Objective:
+# Project Objective:
 This project’s primary objective is to develop a system that can help prevent
 accidents caused by shredder machines, reduce the risk of workplace injuries, and
 promote safety. The computer vision project can be customized to meet specific
