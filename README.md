@@ -1,9 +1,9 @@
 # Shredder-System
 This project basically protects the chopping of hands of workers from shredder machine using Opencv and Computer vision.
 # Introduction:
-Hand protection from shredder machines is an important safety concern in industrial and office settings.The problem is when people work with this Shredder
+Hand protection from shredder machines is an important safety concern in industrial and office settings.The problem is when people work with this Shredder
 Machine. Sometimes accidentally due to inattention, they lose their hands in this
-shredder machine. Here this accident can be solved by using this project. Accidents involving shredders can cause serious injuries, and therefore, it is necessary
+shredder machine. Here this accident can be solved by using this project. Accidents involving shredders can cause serious injuries, and therefore, it is necessary
 to implement measures that can prevent such incidents. One such measure is to
 use a computer vision project to detect when a hand is near the shredder machine
 and trigger a warning or shut off the machine to prevent injury.
@@ -19,7 +19,7 @@ industrial and office settings. While safety measures such as safety guards and
 user manuals are implemented, there is still a need for additional safety measures
 to prevent accidents.
 The problem is that current safety measures may not be sufficient to prevent
-accidents, as users may not follow safety guidelines or safety guards may malfunction. As a result, there is a need to develop a system that can detect when a
+accidents, as users may not follow safety guidelines or safety guards may malfunction. As a result, there is a need to develop a system that can detect when a
 human hand is in close proximity to the shredder machine and trigger a warning
 or shut off the machine to prevent injury.
 The proposed solution is to use computer vision technology to detect when a
@@ -29,7 +29,7 @@ from a camera placed near the shredder machine to identify when a human hand
 is in close proximity. The system will then trigger a warning signal or shut off the
 machine to prevent injury.
 The main objective of the project is to develop a system that can promote
-safety, reduce the risk of workplace injuries, and prevent accidents caused by shredder machines. By using computer vision technology to detect when a hand is in
+safety, reduce the risk of workplace injuries, and prevent accidents caused by shredder machines. By using computer vision technology to detect when a hand is in
 close proximity to the shredder machine and activating a warning or shut off the
 machine automatically, this project aims to provide an additional layer of safety
 to prevent accidents and promote a safe working environment.
@@ -53,9 +53,9 @@ based on your project’s requirements and your familiarity with the platform.
 Both Raspberry Pi and Arduino have their strengths and are capable of
 interfacing with external devices.
 3. Connect the hardware: Connect the chosen microcontroller to the shredder
-machine using the appropriate interface. This could involve wiring the microcontroller’s GPIO pins to the shredder’s control inputs or using additional
+machine using the appropriate interface. This could involve wiring the microcontroller’s GPIO pins to the shredder’s control inputs or using additional
 modules, such as relays or motor drivers, if necessary.
-4. Implement the hand detection software: Develop or adapt your hand detection software to run on the selected microcontroller. For Raspberry Pi, you
+4. Implement the hand detection software: Develop or adapt your hand detection software to run on the selected microcontroller. For Raspberry Pi, you
 can use programming languages like Python or C/C++, while Arduino uses
 its own simplified programming language.
 5. Interface the hand detection software with the shredder: Write the code
