@@ -47,7 +47,7 @@ and promote a safe working environment.
 # Interfacing of Hand Detection Project to a Physical Shredder Machine
 1. Determine the requirements: Understand the communication interface and
 control mechanisms supported by the shredder machine. This could include
-details such as voltage levels, signal types (e.g., digital, analog), and commands required for controlling the shredder.
+details such as voltage levels, signal types (e.g., digital, analog), and commands required for controlling the shredder.
 2. Choose a microcontroller: Select either a Raspberry Pi or Arduino board
 based on your project’s requirements and your familiarity with the platform.
 Both Raspberry Pi and Arduino have their strengths and are capable of
